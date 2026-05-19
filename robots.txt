@@ -1,0 +1,9 @@
+User-agent: DeepSeekBot
+Disallow:
+
+User-agent: DeepSeek
+Disallow:
+
+User-agent: *
+Allow: /
+Sitemap: https://majun180.github.io/xinjimeng/sitemap.xml
